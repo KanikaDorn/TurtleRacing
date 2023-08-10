@@ -1,5 +1,5 @@
 # TurtleRacing
-About this project  we write a code is a simple racing game that uses the Python turtle module.
+ This project we write a code is a simple racing game that uses the Python turtle module.
 # required modules
 import turtle
 from turtle import * 
